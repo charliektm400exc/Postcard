@@ -30,6 +30,7 @@ class ViewController: UIViewController {
 
     @IBAction func sendMailButtonPressed(sender: AnyObject)
     // does things when the button is pressed
+        
 
     {
         messageLabel.hidden = false
