@@ -38,6 +38,8 @@
 		CB31F6681A09B439007AE5E1 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB31F66D1A09B439007AE5E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB31F66E1A09B439007AE5E1 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		CB6DA1001A0DCA0C00E9220F /* operationsOnVariables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = operationsOnVariables.playground; path = ../../Variables/operationsOnVariables.playground; sourceTree = "<group>"; };
+		CB6DA1011A0DD3CE00E9220F /* Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Strings.playground; path = ../../Variables/Strings.playground; sourceTree = "<group>"; };
 		CBDB53101A09CC560004B378 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
 		CBDB53121A09D7520004B378 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,6 +86,8 @@
 				CB31F6581A09B439007AE5E1 /* AppDelegate.swift */,
 				CB31F65A1A09B439007AE5E1 /* ViewController.swift */,
 				CB31F65C1A09B439007AE5E1 /* Main.storyboard */,
+				CB6DA1001A0DCA0C00E9220F /* operationsOnVariables.playground */,
+				CB6DA1011A0DD3CE00E9220F /* Strings.playground */,
 				CB31F65F1A09B439007AE5E1 /* Images.xcassets */,
 				CB31F6611A09B439007AE5E1 /* LaunchScreen.xib */,
 				CB31F6561A09B439007AE5E1 /* Supporting Files */,
